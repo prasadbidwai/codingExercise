@@ -1,0 +1,11 @@
+com\sertifiquiz\domain\StudentRepo.class
+QuizDemo.class
+com\sertifiquiz\services\StudentValuationInterface.class
+com\sertifiquiz\domain\Student.class
+com\sertifiquiz\services\StudentValuation$1.class
+com\sertifiquiz\restServices\ClientRestInterface.class
+com\sertifiquiz\restServices\ClientREST.class
+com\sertifiquiz\services\YearInfoValuation.class
+com\sertifiquiz\services\YearInfoValuationInterface.class
+com\sertifiquiz\services\StudentValuation.class
+com\sertifiquiz\services\YearInfoValuation$1.class
